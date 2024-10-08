@@ -1,0 +1,16 @@
+.custom-cluster-icon {
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: var(--secondary-color);
+  color: white;
+  text-align: center;
+  line-height: 35px;
+}
+
+.leaflet-touch .leaflet-control-attribution {
+  display: none;
+}
